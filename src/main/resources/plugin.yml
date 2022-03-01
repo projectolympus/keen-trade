@@ -1,0 +1,8 @@
+name: Keen Trade
+version: '${project.version}'
+main: net.killfeed.mc.keentrade.KeenTrade
+api-version: 1.18
+prefix: [ KT ]
+authors: [ codar ]
+description: Automatic Villager trading system
+website: https://mc.killfeed.net/keen-trade/
