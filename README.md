@@ -1,6 +1,6 @@
 # Keen Trade
 
-**Keen Trade** is a Spigot plugin that adds automatic trading with Villagers, with more features to come.
+**Keen Trade** is a Spigot plugin that adds automatic trading with Villagers.
 
 ## Feature Roadmap
 
@@ -23,9 +23,9 @@ Redstone signal of strength *15* when the selected trade is at its maximum stock
 The **Trading Station** is a multi-block structure, built under an employed Villager's job site block. Trades can be
 selected from the Villager's available trades by interacting with the *Display* Item Frame item, which will update its
 name to reflect the current trade. Place items to be traded with the Villager in the *input* chest (e.g. paper or
-emeralds). The *Trading Station* will automatically trade with the Villager, during its work hours, as if a player had
-done the trades. When a trade is out of stock, the *Trading Station* will wait for the Villager to restock it. Any items
-received from trading will be placed by the *output* chest.
+emeralds). The **Trading Station** will automatically trade with the Villager, during its work hours, as if a player had
+done the trades. When a trade is out of stock, the **Trading Station** will wait for the Villager to restock it. Any items
+received from trading will be placed in the *output* chest.
 
 #### Components
 
