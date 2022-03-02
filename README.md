@@ -31,13 +31,13 @@ received from trading will be placed in the *output* chest.
 
 | Component | Block/Item      | Quantity | Note
 | ---       | ---             | ---      | ---
-| Base      | *Resource Block* (See *Base Materials* table) | 1        | *Base Material* determines the capabilities of this *Trading Station*
+| Base      | *Resource Block* (See *Base Material* table) | 1        | *Base Material* determines the capabilities of this *Trading Station*
 | Input     | Chest           | 1        | Items to be traded with the Villager
 | Output    | Chest           | 1        | Items received from trading with the Villager
 | Display   | Item Frame      | 1        | Displays merchant/trade information
 |           | Emerald         | 1        | renamed to "KT:TradingStation"
 
-##### Base Materials Table
+##### Base Material Table
 
 | Base Material      | Trades/work day | Non-emerald trades | Multi-item trades
 | ---                | ---             | ---                | ---
